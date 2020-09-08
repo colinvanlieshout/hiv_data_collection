@@ -1,197 +1,197 @@
-,CountryCode,measure_value,Country,Year,Indicator_category,Indicator,unit_of_measure,Source
-0,AFG,2,Afghanistan,2020,Country,Civicus score,Number,Civicus monitor
-1,ALB,4,Albania,2020,Country,Civicus score,Number,Civicus monitor
-2,DZA,2,Algeria,2020,Country,Civicus score,Number,Civicus monitor
-3,AND,5,Andorra,2020,Country,Civicus score,Number,Civicus monitor
-4,AGO,2,Angola,2020,Country,Civicus score,Number,Civicus monitor
-5,ATG,5,Antigua and Barbuda,2020,Country,Civicus score,Number,Civicus monitor
-6,ARG,4,Argentina,2020,Country,Civicus score,Number,Civicus monitor
-7,ARM,3,Armenia,2020,Country,Civicus score,Number,Civicus monitor
-8,AUS,4,Australia,2020,Country,Civicus score,Number,Civicus monitor
-9,AUT,6,Austria,2020,Country,Civicus score,Number,Civicus monitor
-10,AZE,1,Azerbaijan,2020,Country,Civicus score,Number,Civicus monitor
-11,BHS,4,Bahamas,2020,Country,Civicus score,Number,Civicus monitor
-12,BHR,1,Bahrain,2020,Country,Civicus score,Number,Civicus monitor
-13,BGD,2,Bangladesh,2020,Country,Civicus score,Number,Civicus monitor
-14,BRB,5,Barbados,2020,Country,Civicus score,Number,Civicus monitor
-15,BLR,2,Belarus,2020,Country,Civicus score,Number,Civicus monitor
-16,BEL,5,Belgium,2020,Country,Civicus score,Number,Civicus monitor
-17,BLZ,4,Belize,2020,Country,Civicus score,Number,Civicus monitor
-18,BEN,3,Benin,2020,Country,Civicus score,Number,Civicus monitor
-19,BTN,3,Bhutan,2020,Country,Civicus score,Number,Civicus monitor
-20,BOL,3,"Bolivia, Plurinational State of",2020,Country,Civicus score,Number,Civicus monitor
-21,BIH,4,Bosnia and Herzegovina,2020,Country,Civicus score,Number,Civicus monitor
-22,BWA,4,Botswana,2020,Country,Civicus score,Number,Civicus monitor
-23,BRA,3,Brazil,2020,Country,Civicus score,Number,Civicus monitor
-24,BRN,2,Brunei Darussalam,2020,Country,Civicus score,Number,Civicus monitor
-25,BGR,4,Bulgaria,2020,Country,Civicus score,Number,Civicus monitor
-26,BFA,3,Burkina Faso,2020,Country,Civicus score,Number,Civicus monitor
-27,BDI,1,Burundi,2020,Country,Civicus score,Number,Civicus monitor
-28,KHM,2,Cambodia,2020,Country,Civicus score,Number,Civicus monitor
-29,CMR,2,Cameroon,2020,Country,Civicus score,Number,Civicus monitor
-30,CAN,5,Canada,2020,Country,Civicus score,Number,Civicus monitor
-31,CPV,5,Cabo Verde,2020,Country,Civicus score,Number,Civicus monitor
-32,CAF,1,Central African Republic,2020,Country,Civicus score,Number,Civicus monitor
-33,TCD,2,Chad,2020,Country,Civicus score,Number,Civicus monitor
-34,CHL,4,Chile,2020,Country,Civicus score,Number,Civicus monitor
-35,CHN,1,China,2020,Country,Civicus score,Number,Civicus monitor
-36,COL,2,Colombia,2020,Country,Civicus score,Number,Civicus monitor
-37,COM,3,Comoros,2020,Country,Civicus score,Number,Civicus monitor
-38,CRI,5,Costa Rica,2020,Country,Civicus score,Number,Civicus monitor
-39,CIV,3,Côte d'Ivoire,2020,Country,Civicus score,Number,Civicus monitor
-40,HRV,4,Croatia,2020,Country,Civicus score,Number,Civicus monitor
-41,CUB,1,Cuba,2020,Country,Civicus score,Number,Civicus monitor
-42,CYP,5,Cyprus,2020,Country,Civicus score,Number,Civicus monitor
-43,CZE,5,Czechia,2020,Country,Civicus score,Number,Civicus monitor
-44,COD,1,"Congo, The Democratic Republic of the",2020,Country,Civicus score,Number,Civicus monitor
-45,DNK,5,Denmark,2020,Country,Civicus score,Number,Civicus monitor
-46,DJI,1,Djibouti,2020,Country,Civicus score,Number,Civicus monitor
-47,DMA,5,Dominica,2020,Country,Civicus score,Number,Civicus monitor
-48,DOM,4,Dominican Republic,2020,Country,Civicus score,Number,Civicus monitor
-49,ECU,4,Ecuador,2020,Country,Civicus score,Number,Civicus monitor
-50,EGY,1,Egypt,2020,Country,Civicus score,Number,Civicus monitor
-51,SLV,3,El Salvador,2020,Country,Civicus score,Number,Civicus monitor
-52,GNQ,1,Equatorial Guinea,2020,Country,Civicus score,Number,Civicus monitor
-53,ERI,1,Eritrea,2020,Country,Civicus score,Number,Civicus monitor
-54,EST,5,Estonia,2020,Country,Civicus score,Number,Civicus monitor
-55,ETH,2,Ethiopia,2020,Country,Civicus score,Number,Civicus monitor
-56,FJI,3,Fiji,2020,Country,Civicus score,Number,Civicus monitor
-57,FIN,5,Finland,2020,Country,Civicus score,Number,Civicus monitor
-58,FRA,4,France,2020,Country,Civicus score,Number,Civicus monitor
-59,GAB,2,Gabon,2020,Country,Civicus score,Number,Civicus monitor
-60,GMB,3,Gambia,2020,Country,Civicus score,Number,Civicus monitor
-61,GEO,4,Georgia,2020,Country,Civicus score,Number,Civicus monitor
-62,DEU,5,Germany,2020,Country,Civicus score,Number,Civicus monitor
-63,GHA,4,Ghana,2020,Country,Civicus score,Number,Civicus monitor
-64,GRC,4,Greece,2020,Country,Civicus score,Number,Civicus monitor
-65,GRL,None,Greenland,2020,Country,Civicus score,Number,Civicus monitor
-66,GRD,5,Grenada,2020,Country,Civicus score,Number,Civicus monitor
-67,GTM,3,Guatemala,2020,Country,Civicus score,Number,Civicus monitor
-68,GIN,3,Guinea,2020,Country,Civicus score,Number,Civicus monitor
-69,GNB,3,Guinea-Bissau,2020,Country,Civicus score,Number,Civicus monitor
-70,GUY,4,Guyana,2020,Country,Civicus score,Number,Civicus monitor
-71,HTI,3,Haiti,2020,Country,Civicus score,Number,Civicus monitor
-72,HND,2,Honduras,2020,Country,Civicus score,Number,Civicus monitor
-73,HUN,3,Hungary,2020,Country,Civicus score,Number,Civicus monitor
-74,ISL,5,Iceland,2020,Country,Civicus score,Number,Civicus monitor
-75,IND,2,India,2020,Country,Civicus score,Number,Civicus monitor
-76,IDN,3,Indonesia,2020,Country,Civicus score,Number,Civicus monitor
-77,IRN,1,"Iran, Islamic Republic of",2020,Country,Civicus score,Number,Civicus monitor
-78,IRQ,2,Iraq,2020,Country,Civicus score,Number,Civicus monitor
-79,IRL,5,Ireland,2020,Country,Civicus score,Number,Civicus monitor
-80,ISR,3,Israel,2020,Country,Civicus score,Number,Civicus monitor
-81,ITA,4,Italy,2020,Country,Civicus score,Number,Civicus monitor
-82,JAM,4,Jamaica,2020,Country,Civicus score,Number,Civicus monitor
-83,JPN,4,Japan,2020,Country,Civicus score,Number,Civicus monitor
-84,JOR,3,Jordan,2020,Country,Civicus score,Number,Civicus monitor
-85,KAZ,3,Kazakhstan,2020,Country,Civicus score,Number,Civicus monitor
-86,KEN,3,Kenya,2020,Country,Civicus score,Number,Civicus monitor
-87,KIR,5,Kiribati,2020,Country,Civicus score,Number,Civicus monitor
-88,KWT,2,Kuwait,2020,Country,Civicus score,Number,Civicus monitor
-89,KGZ,3,Kyrgyzstan,2020,Country,Civicus score,Number,Civicus monitor
-90,LAO,1,Lao People's Democratic Republic,2020,Country,Civicus score,Number,Civicus monitor
-91,LVA,4,Latvia,2020,Country,Civicus score,Number,Civicus monitor
-92,LBN,3,Lebanon,2020,Country,Civicus score,Number,Civicus monitor
-93,LSO,3,Lesotho,2020,Country,Civicus score,Number,Civicus monitor
-94,LBR,3,Liberia,2020,Country,Civicus score,Number,Civicus monitor
-95,LBY,1,Libya,2020,Country,Civicus score,Number,Civicus monitor
-96,LIE,5,Liechtenstein,2020,Country,Civicus score,Number,Civicus monitor
-97,LTU,5,Lithuania,2020,Country,Civicus score,Number,Civicus monitor
-98,LUX,5,Luxembourg,2020,Country,Civicus score,Number,Civicus monitor
-99,MKD,4,North Macedonia,2020,Country,Civicus score,Number,Civicus monitor
-100,MDG,2,Madagascar,2020,Country,Civicus score,Number,Civicus monitor
-101,MWI,3,Malawi,2020,Country,Civicus score,Number,Civicus monitor
-102,MYS,3,Malaysia,2020,Country,Civicus score,Number,Civicus monitor
-103,MDV,3,Maldives,2020,Country,Civicus score,Number,Civicus monitor
-104,MLI,3,Mali,2020,Country,Civicus score,Number,Civicus monitor
-105,MLT,4,Malta,2020,Country,Civicus score,Number,Civicus monitor
-106,MHL,5,Marshall Islands,2020,Country,Civicus score,Number,Civicus monitor
-107,MRT,2,Mauritania,2020,Country,Civicus score,Number,Civicus monitor
-108,MUS,4,Mauritius,2020,Country,Civicus score,Number,Civicus monitor
-109,MEX,2,Mexico,2020,Country,Civicus score,Number,Civicus monitor
-110,FSM,5,"Micronesia, Federated States of",2020,Country,Civicus score,Number,Civicus monitor
-111,MDA,4,"Moldova, Republic of",2020,Country,Civicus score,Number,Civicus monitor
-112,MCO,5,Monaco,2020,Country,Civicus score,Number,Civicus monitor
-113,MNG,3,Mongolia,2020,Country,Civicus score,Number,Civicus monitor
-114,MNE,4,Montenegro,2020,Country,Civicus score,Number,Civicus monitor
-115,MAR,3,Morocco,2020,Country,Civicus score,Number,Civicus monitor
-116,MOZ,3,Mozambique,2020,Country,Civicus score,Number,Civicus monitor
-117,MMR,2,Myanmar,2020,Country,Civicus score,Number,Civicus monitor
-118,NAM,4,Namibia,2020,Country,Civicus score,Number,Civicus monitor
-119,NRU,3,Nauru,2020,Country,Civicus score,Number,Civicus monitor
-120,NPL,3,Nepal,2020,Country,Civicus score,Number,Civicus monitor
-121,NLD,5,Netherlands,2020,Country,Civicus score,Number,Civicus monitor
-122,NZL,5,New Zealand,2020,Country,Civicus score,Number,Civicus monitor
-123,NIC,2,Nicaragua,2020,Country,Civicus score,Number,Civicus monitor
-124,NER,3,Niger,2020,Country,Civicus score,Number,Civicus monitor
-125,NGA,2,Nigeria,2020,Country,Civicus score,Number,Civicus monitor
-126,PRK,1,"Korea, Democratic People's Republic of",2020,Country,Civicus score,Number,Civicus monitor
-127,NOR,5,Norway,2020,Country,Civicus score,Number,Civicus monitor
-128,OMN,2,Oman,2020,Country,Civicus score,Number,Civicus monitor
-129,PAK,2,Pakistan,2020,Country,Civicus score,Number,Civicus monitor
-130,PLW,5,Palau,2020,Country,Civicus score,Number,Civicus monitor
-131,PSE,2,"Palestine, State of",2020,Country,Civicus score,Number,Civicus monitor
-132,PAN,4,Panama,2020,Country,Civicus score,Number,Civicus monitor
-133,PNG,3,Papua New Guinea,2020,Country,Civicus score,Number,Civicus monitor
-134,PRY,3,Paraguay,2020,Country,Civicus score,Number,Civicus monitor
-135,PER,3,Peru,2020,Country,Civicus score,Number,Civicus monitor
-136,PHL,3,Philippines,2020,Country,Civicus score,Number,Civicus monitor
-137,POL,4,Poland,2020,Country,Civicus score,Number,Civicus monitor
-138,PRT,5,Portugal,2020,Country,Civicus score,Number,Civicus monitor
-139,QAT,2,Qatar,2020,Country,Civicus score,Number,Civicus monitor
-140,COG,2,Congo,2020,Country,Civicus score,Number,Civicus monitor
-141,ROU,4,Romania,2020,Country,Civicus score,Number,Civicus monitor
-142,RUS,2,Russian Federation,2020,Country,Civicus score,Number,Civicus monitor
-143,RWA,2,Rwanda,2020,Country,Civicus score,Number,Civicus monitor
-144,LCA,5,Saint Lucia,2020,Country,Civicus score,Number,Civicus monitor
-145,WSM,5,Samoa,2020,Country,Civicus score,Number,Civicus monitor
-146,SMR,5,San Marino,2020,Country,Civicus score,Number,Civicus monitor
-147,STP,5,Sao Tome and Principe,2020,Country,Civicus score,Number,Civicus monitor
-148,SAU,1,Saudi Arabia,2020,Country,Civicus score,Number,Civicus monitor
-149,SEN,3,Senegal,2020,Country,Civicus score,Number,Civicus monitor
-150,SRB,3,Serbia,2020,Country,Civicus score,Number,Civicus monitor
-151,SYC,4,Seychelles,2020,Country,Civicus score,Number,Civicus monitor
-152,SLE,3,Sierra Leone,2020,Country,Civicus score,Number,Civicus monitor
-153,SGP,3,Singapore,2020,Country,Civicus score,Number,Civicus monitor
-154,SVK,4,Slovakia,2020,Country,Civicus score,Number,Civicus monitor
-155,SVN,5,Slovenia,2020,Country,Civicus score,Number,Civicus monitor
-156,SLB,5,Solomon Islands,2020,Country,Civicus score,Number,Civicus monitor
-157,SOM,2,Somalia,2020,Country,Civicus score,Number,Civicus monitor
-158,ZAF,4,South Africa,2020,Country,Civicus score,Number,Civicus monitor
-159,KOR,4,"Korea, Republic of",2020,Country,Civicus score,Number,Civicus monitor
-160,SSD,1,South Sudan,2020,Country,Civicus score,Number,Civicus monitor
-161,ESP,4,Spain,2020,Country,Civicus score,Number,Civicus monitor
-162,LKA,3,Sri Lanka,2020,Country,Civicus score,Number,Civicus monitor
-163,KNA,5,Saint Kitts and Nevis,2020,Country,Civicus score,Number,Civicus monitor
-164,VCT,5,Saint Vincent and the Grenadines,2020,Country,Civicus score,Number,Civicus monitor
-165,SDN,1,Sudan,2020,Country,Civicus score,Number,Civicus monitor
-166,SUR,5,Suriname,2020,Country,Civicus score,Number,Civicus monitor
-167,SWZ,2,Eswatini,2020,Country,Civicus score,Number,Civicus monitor
-168,SWE,5,Sweden,2020,Country,Civicus score,Number,Civicus monitor
-169,CHE,5,Switzerland,2020,Country,Civicus score,Number,Civicus monitor
-170,SYR,1,Syrian Arab Republic,2020,Country,Civicus score,Number,Civicus monitor
-171,TWN,5,"Taiwan, Province of China",2020,Country,Civicus score,Number,Civicus monitor
-172,TJK,2,Tajikistan,2020,Country,Civicus score,Number,Civicus monitor
-173,TZA,2,"Tanzania, United Republic of",2020,Country,Civicus score,Number,Civicus monitor
-174,THA,2,Thailand,2020,Country,Civicus score,Number,Civicus monitor
-175,TLS,3,Timor-Leste,2020,Country,Civicus score,Number,Civicus monitor
-176,TGO,3,Togo,2020,Country,Civicus score,Number,Civicus monitor
-177,TON,4,Tonga,2020,Country,Civicus score,Number,Civicus monitor
-178,TTO,4,Trinidad and Tobago,2020,Country,Civicus score,Number,Civicus monitor
-179,TUN,3,Tunisia,2020,Country,Civicus score,Number,Civicus monitor
-180,TUR,2,Turkey,2020,Country,Civicus score,Number,Civicus monitor
-181,TKM,1,Turkmenistan,2020,Country,Civicus score,Number,Civicus monitor
-182,TUV,5,Tuvalu,2020,Country,Civicus score,Number,Civicus monitor
-183,UGA,2,Uganda,2020,Country,Civicus score,Number,Civicus monitor
-184,UKR,3,Ukraine,2020,Country,Civicus score,Number,Civicus monitor
-185,ARE,1,United Arab Emirates,2020,Country,Civicus score,Number,Civicus monitor
-186,GBR,4,United Kingdom,2020,Country,Civicus score,Number,Civicus monitor
-187,USA,4,United States,2020,Country,Civicus score,Number,Civicus monitor
-188,URY,5,Uruguay,2020,Country,Civicus score,Number,Civicus monitor
-189,UZB,1,Uzbekistan,2020,Country,Civicus score,Number,Civicus monitor
-190,VUT,4,Vanuatu,2020,Country,Civicus score,Number,Civicus monitor
-191,VEN,2,"Venezuela, Bolivarian Republic of",2020,Country,Civicus score,Number,Civicus monitor
-192,VNM,1,Viet Nam,2020,Country,Civicus score,Number,Civicus monitor
-193,YEM,1,Yemen,2020,Country,Civicus score,Number,Civicus monitor
-194,ZMB,3,Zambia,2020,Country,Civicus score,Number,Civicus monitor
-195,ZWE,2,Zimbabwe,2020,Country,Civicus score,Number,Civicus monitor
+CountryCode,measure_value,Country,Year,Indicator_category,Indicator,unit_of_measure,Source
+AFG,2,Afghanistan,2020,Country,Civicus score,Number,Civicus monitor
+ALB,4,Albania,2020,Country,Civicus score,Number,Civicus monitor
+DZA,2,Algeria,2020,Country,Civicus score,Number,Civicus monitor
+AND,5,Andorra,2020,Country,Civicus score,Number,Civicus monitor
+AGO,2,Angola,2020,Country,Civicus score,Number,Civicus monitor
+ATG,5,Antigua and Barbuda,2020,Country,Civicus score,Number,Civicus monitor
+ARG,4,Argentina,2020,Country,Civicus score,Number,Civicus monitor
+ARM,3,Armenia,2020,Country,Civicus score,Number,Civicus monitor
+AUS,4,Australia,2020,Country,Civicus score,Number,Civicus monitor
+AUT,6,Austria,2020,Country,Civicus score,Number,Civicus monitor
+AZE,1,Azerbaijan,2020,Country,Civicus score,Number,Civicus monitor
+BHS,4,Bahamas,2020,Country,Civicus score,Number,Civicus monitor
+BHR,1,Bahrain,2020,Country,Civicus score,Number,Civicus monitor
+BGD,2,Bangladesh,2020,Country,Civicus score,Number,Civicus monitor
+BRB,5,Barbados,2020,Country,Civicus score,Number,Civicus monitor
+BLR,2,Belarus,2020,Country,Civicus score,Number,Civicus monitor
+BEL,5,Belgium,2020,Country,Civicus score,Number,Civicus monitor
+BLZ,4,Belize,2020,Country,Civicus score,Number,Civicus monitor
+BEN,3,Benin,2020,Country,Civicus score,Number,Civicus monitor
+BTN,3,Bhutan,2020,Country,Civicus score,Number,Civicus monitor
+BOL,3,"Bolivia, Plurinational State of",2020,Country,Civicus score,Number,Civicus monitor
+BIH,4,Bosnia and Herzegovina,2020,Country,Civicus score,Number,Civicus monitor
+BWA,4,Botswana,2020,Country,Civicus score,Number,Civicus monitor
+BRA,3,Brazil,2020,Country,Civicus score,Number,Civicus monitor
+BRN,2,Brunei Darussalam,2020,Country,Civicus score,Number,Civicus monitor
+BGR,4,Bulgaria,2020,Country,Civicus score,Number,Civicus monitor
+BFA,3,Burkina Faso,2020,Country,Civicus score,Number,Civicus monitor
+BDI,1,Burundi,2020,Country,Civicus score,Number,Civicus monitor
+KHM,2,Cambodia,2020,Country,Civicus score,Number,Civicus monitor
+CMR,2,Cameroon,2020,Country,Civicus score,Number,Civicus monitor
+CAN,5,Canada,2020,Country,Civicus score,Number,Civicus monitor
+CPV,5,Cabo Verde,2020,Country,Civicus score,Number,Civicus monitor
+CAF,1,Central African Republic,2020,Country,Civicus score,Number,Civicus monitor
+TCD,2,Chad,2020,Country,Civicus score,Number,Civicus monitor
+CHL,4,Chile,2020,Country,Civicus score,Number,Civicus monitor
+CHN,1,China,2020,Country,Civicus score,Number,Civicus monitor
+COL,2,Colombia,2020,Country,Civicus score,Number,Civicus monitor
+COM,3,Comoros,2020,Country,Civicus score,Number,Civicus monitor
+CRI,5,Costa Rica,2020,Country,Civicus score,Number,Civicus monitor
+CIV,3,Côte d'Ivoire,2020,Country,Civicus score,Number,Civicus monitor
+HRV,4,Croatia,2020,Country,Civicus score,Number,Civicus monitor
+CUB,1,Cuba,2020,Country,Civicus score,Number,Civicus monitor
+CYP,5,Cyprus,2020,Country,Civicus score,Number,Civicus monitor
+CZE,5,Czechia,2020,Country,Civicus score,Number,Civicus monitor
+COD,1,"Congo, The Democratic Republic of the",2020,Country,Civicus score,Number,Civicus monitor
+DNK,5,Denmark,2020,Country,Civicus score,Number,Civicus monitor
+DJI,1,Djibouti,2020,Country,Civicus score,Number,Civicus monitor
+DMA,5,Dominica,2020,Country,Civicus score,Number,Civicus monitor
+DOM,4,Dominican Republic,2020,Country,Civicus score,Number,Civicus monitor
+ECU,4,Ecuador,2020,Country,Civicus score,Number,Civicus monitor
+EGY,1,Egypt,2020,Country,Civicus score,Number,Civicus monitor
+SLV,3,El Salvador,2020,Country,Civicus score,Number,Civicus monitor
+GNQ,1,Equatorial Guinea,2020,Country,Civicus score,Number,Civicus monitor
+ERI,1,Eritrea,2020,Country,Civicus score,Number,Civicus monitor
+EST,5,Estonia,2020,Country,Civicus score,Number,Civicus monitor
+ETH,2,Ethiopia,2020,Country,Civicus score,Number,Civicus monitor
+FJI,3,Fiji,2020,Country,Civicus score,Number,Civicus monitor
+FIN,5,Finland,2020,Country,Civicus score,Number,Civicus monitor
+FRA,4,France,2020,Country,Civicus score,Number,Civicus monitor
+GAB,2,Gabon,2020,Country,Civicus score,Number,Civicus monitor
+GMB,3,Gambia,2020,Country,Civicus score,Number,Civicus monitor
+GEO,4,Georgia,2020,Country,Civicus score,Number,Civicus monitor
+DEU,5,Germany,2020,Country,Civicus score,Number,Civicus monitor
+GHA,4,Ghana,2020,Country,Civicus score,Number,Civicus monitor
+GRC,4,Greece,2020,Country,Civicus score,Number,Civicus monitor
+GRL,None,Greenland,2020,Country,Civicus score,Number,Civicus monitor
+GRD,5,Grenada,2020,Country,Civicus score,Number,Civicus monitor
+GTM,3,Guatemala,2020,Country,Civicus score,Number,Civicus monitor
+GIN,3,Guinea,2020,Country,Civicus score,Number,Civicus monitor
+GNB,3,Guinea-Bissau,2020,Country,Civicus score,Number,Civicus monitor
+GUY,4,Guyana,2020,Country,Civicus score,Number,Civicus monitor
+HTI,3,Haiti,2020,Country,Civicus score,Number,Civicus monitor
+HND,2,Honduras,2020,Country,Civicus score,Number,Civicus monitor
+HUN,3,Hungary,2020,Country,Civicus score,Number,Civicus monitor
+ISL,5,Iceland,2020,Country,Civicus score,Number,Civicus monitor
+IND,2,India,2020,Country,Civicus score,Number,Civicus monitor
+IDN,3,Indonesia,2020,Country,Civicus score,Number,Civicus monitor
+IRN,1,"Iran, Islamic Republic of",2020,Country,Civicus score,Number,Civicus monitor
+IRQ,2,Iraq,2020,Country,Civicus score,Number,Civicus monitor
+IRL,5,Ireland,2020,Country,Civicus score,Number,Civicus monitor
+ISR,3,Israel,2020,Country,Civicus score,Number,Civicus monitor
+ITA,4,Italy,2020,Country,Civicus score,Number,Civicus monitor
+JAM,4,Jamaica,2020,Country,Civicus score,Number,Civicus monitor
+JPN,4,Japan,2020,Country,Civicus score,Number,Civicus monitor
+JOR,3,Jordan,2020,Country,Civicus score,Number,Civicus monitor
+KAZ,3,Kazakhstan,2020,Country,Civicus score,Number,Civicus monitor
+KEN,3,Kenya,2020,Country,Civicus score,Number,Civicus monitor
+KIR,5,Kiribati,2020,Country,Civicus score,Number,Civicus monitor
+KWT,2,Kuwait,2020,Country,Civicus score,Number,Civicus monitor
+KGZ,3,Kyrgyzstan,2020,Country,Civicus score,Number,Civicus monitor
+LAO,1,Lao People's Democratic Republic,2020,Country,Civicus score,Number,Civicus monitor
+LVA,4,Latvia,2020,Country,Civicus score,Number,Civicus monitor
+LBN,3,Lebanon,2020,Country,Civicus score,Number,Civicus monitor
+LSO,3,Lesotho,2020,Country,Civicus score,Number,Civicus monitor
+LBR,3,Liberia,2020,Country,Civicus score,Number,Civicus monitor
+LBY,1,Libya,2020,Country,Civicus score,Number,Civicus monitor
+LIE,5,Liechtenstein,2020,Country,Civicus score,Number,Civicus monitor
+LTU,5,Lithuania,2020,Country,Civicus score,Number,Civicus monitor
+LUX,5,Luxembourg,2020,Country,Civicus score,Number,Civicus monitor
+MKD,4,North Macedonia,2020,Country,Civicus score,Number,Civicus monitor
+MDG,2,Madagascar,2020,Country,Civicus score,Number,Civicus monitor
+MWI,3,Malawi,2020,Country,Civicus score,Number,Civicus monitor
+MYS,3,Malaysia,2020,Country,Civicus score,Number,Civicus monitor
+MDV,3,Maldives,2020,Country,Civicus score,Number,Civicus monitor
+MLI,3,Mali,2020,Country,Civicus score,Number,Civicus monitor
+MLT,4,Malta,2020,Country,Civicus score,Number,Civicus monitor
+MHL,5,Marshall Islands,2020,Country,Civicus score,Number,Civicus monitor
+MRT,2,Mauritania,2020,Country,Civicus score,Number,Civicus monitor
+MUS,4,Mauritius,2020,Country,Civicus score,Number,Civicus monitor
+MEX,2,Mexico,2020,Country,Civicus score,Number,Civicus monitor
+FSM,5,"Micronesia, Federated States of",2020,Country,Civicus score,Number,Civicus monitor
+MDA,4,"Moldova, Republic of",2020,Country,Civicus score,Number,Civicus monitor
+MCO,5,Monaco,2020,Country,Civicus score,Number,Civicus monitor
+MNG,3,Mongolia,2020,Country,Civicus score,Number,Civicus monitor
+MNE,4,Montenegro,2020,Country,Civicus score,Number,Civicus monitor
+MAR,3,Morocco,2020,Country,Civicus score,Number,Civicus monitor
+MOZ,3,Mozambique,2020,Country,Civicus score,Number,Civicus monitor
+MMR,2,Myanmar,2020,Country,Civicus score,Number,Civicus monitor
+NAM,4,Namibia,2020,Country,Civicus score,Number,Civicus monitor
+NRU,3,Nauru,2020,Country,Civicus score,Number,Civicus monitor
+NPL,3,Nepal,2020,Country,Civicus score,Number,Civicus monitor
+NLD,5,Netherlands,2020,Country,Civicus score,Number,Civicus monitor
+NZL,5,New Zealand,2020,Country,Civicus score,Number,Civicus monitor
+NIC,2,Nicaragua,2020,Country,Civicus score,Number,Civicus monitor
+NER,3,Niger,2020,Country,Civicus score,Number,Civicus monitor
+NGA,2,Nigeria,2020,Country,Civicus score,Number,Civicus monitor
+PRK,1,"Korea, Democratic People's Republic of",2020,Country,Civicus score,Number,Civicus monitor
+NOR,5,Norway,2020,Country,Civicus score,Number,Civicus monitor
+OMN,2,Oman,2020,Country,Civicus score,Number,Civicus monitor
+PAK,2,Pakistan,2020,Country,Civicus score,Number,Civicus monitor
+PLW,5,Palau,2020,Country,Civicus score,Number,Civicus monitor
+PSE,2,"Palestine, State of",2020,Country,Civicus score,Number,Civicus monitor
+PAN,4,Panama,2020,Country,Civicus score,Number,Civicus monitor
+PNG,3,Papua New Guinea,2020,Country,Civicus score,Number,Civicus monitor
+PRY,3,Paraguay,2020,Country,Civicus score,Number,Civicus monitor
+PER,3,Peru,2020,Country,Civicus score,Number,Civicus monitor
+PHL,3,Philippines,2020,Country,Civicus score,Number,Civicus monitor
+POL,4,Poland,2020,Country,Civicus score,Number,Civicus monitor
+PRT,5,Portugal,2020,Country,Civicus score,Number,Civicus monitor
+QAT,2,Qatar,2020,Country,Civicus score,Number,Civicus monitor
+COG,2,Congo,2020,Country,Civicus score,Number,Civicus monitor
+ROU,4,Romania,2020,Country,Civicus score,Number,Civicus monitor
+RUS,2,Russian Federation,2020,Country,Civicus score,Number,Civicus monitor
+RWA,2,Rwanda,2020,Country,Civicus score,Number,Civicus monitor
+LCA,5,Saint Lucia,2020,Country,Civicus score,Number,Civicus monitor
+WSM,5,Samoa,2020,Country,Civicus score,Number,Civicus monitor
+SMR,5,San Marino,2020,Country,Civicus score,Number,Civicus monitor
+STP,5,Sao Tome and Principe,2020,Country,Civicus score,Number,Civicus monitor
+SAU,1,Saudi Arabia,2020,Country,Civicus score,Number,Civicus monitor
+SEN,3,Senegal,2020,Country,Civicus score,Number,Civicus monitor
+SRB,3,Serbia,2020,Country,Civicus score,Number,Civicus monitor
+SYC,4,Seychelles,2020,Country,Civicus score,Number,Civicus monitor
+SLE,3,Sierra Leone,2020,Country,Civicus score,Number,Civicus monitor
+SGP,3,Singapore,2020,Country,Civicus score,Number,Civicus monitor
+SVK,4,Slovakia,2020,Country,Civicus score,Number,Civicus monitor
+SVN,5,Slovenia,2020,Country,Civicus score,Number,Civicus monitor
+SLB,5,Solomon Islands,2020,Country,Civicus score,Number,Civicus monitor
+SOM,2,Somalia,2020,Country,Civicus score,Number,Civicus monitor
+ZAF,4,South Africa,2020,Country,Civicus score,Number,Civicus monitor
+KOR,4,"Korea, Republic of",2020,Country,Civicus score,Number,Civicus monitor
+SSD,1,South Sudan,2020,Country,Civicus score,Number,Civicus monitor
+ESP,4,Spain,2020,Country,Civicus score,Number,Civicus monitor
+LKA,3,Sri Lanka,2020,Country,Civicus score,Number,Civicus monitor
+KNA,5,Saint Kitts and Nevis,2020,Country,Civicus score,Number,Civicus monitor
+VCT,5,Saint Vincent and the Grenadines,2020,Country,Civicus score,Number,Civicus monitor
+SDN,1,Sudan,2020,Country,Civicus score,Number,Civicus monitor
+SUR,5,Suriname,2020,Country,Civicus score,Number,Civicus monitor
+SWZ,2,Eswatini,2020,Country,Civicus score,Number,Civicus monitor
+SWE,5,Sweden,2020,Country,Civicus score,Number,Civicus monitor
+CHE,5,Switzerland,2020,Country,Civicus score,Number,Civicus monitor
+SYR,1,Syrian Arab Republic,2020,Country,Civicus score,Number,Civicus monitor
+TWN,5,"Taiwan, Province of China",2020,Country,Civicus score,Number,Civicus monitor
+TJK,2,Tajikistan,2020,Country,Civicus score,Number,Civicus monitor
+TZA,2,"Tanzania, United Republic of",2020,Country,Civicus score,Number,Civicus monitor
+THA,2,Thailand,2020,Country,Civicus score,Number,Civicus monitor
+TLS,3,Timor-Leste,2020,Country,Civicus score,Number,Civicus monitor
+TGO,3,Togo,2020,Country,Civicus score,Number,Civicus monitor
+TON,4,Tonga,2020,Country,Civicus score,Number,Civicus monitor
+TTO,4,Trinidad and Tobago,2020,Country,Civicus score,Number,Civicus monitor
+TUN,3,Tunisia,2020,Country,Civicus score,Number,Civicus monitor
+TUR,2,Turkey,2020,Country,Civicus score,Number,Civicus monitor
+TKM,1,Turkmenistan,2020,Country,Civicus score,Number,Civicus monitor
+TUV,5,Tuvalu,2020,Country,Civicus score,Number,Civicus monitor
+UGA,2,Uganda,2020,Country,Civicus score,Number,Civicus monitor
+UKR,3,Ukraine,2020,Country,Civicus score,Number,Civicus monitor
+ARE,1,United Arab Emirates,2020,Country,Civicus score,Number,Civicus monitor
+GBR,4,United Kingdom,2020,Country,Civicus score,Number,Civicus monitor
+USA,4,United States,2020,Country,Civicus score,Number,Civicus monitor
+URY,5,Uruguay,2020,Country,Civicus score,Number,Civicus monitor
+UZB,1,Uzbekistan,2020,Country,Civicus score,Number,Civicus monitor
+VUT,4,Vanuatu,2020,Country,Civicus score,Number,Civicus monitor
+VEN,2,"Venezuela, Bolivarian Republic of",2020,Country,Civicus score,Number,Civicus monitor
+VNM,1,Viet Nam,2020,Country,Civicus score,Number,Civicus monitor
+YEM,1,Yemen,2020,Country,Civicus score,Number,Civicus monitor
+ZMB,3,Zambia,2020,Country,Civicus score,Number,Civicus monitor
+ZWE,2,Zimbabwe,2020,Country,Civicus score,Number,Civicus monitor

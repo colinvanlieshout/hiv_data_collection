@@ -1,0 +1,49 @@
+States,2019,2019_lower, 2019_upper
+Baringo,0.3 ,0.2 , 0.6
+Bomet,0.6 ,0.4 , 0.9
+Bungoma,1.3 ,1.0 , 1.7
+Busia,1.3 ,1.0 , 1.8
+Elgeyo-Marakwet,0.4 ,0.3 , 0.6
+Embu,0.4 ,0.3 , 0.6
+Garissa,<0.1 ,<0.1 , <0.1
+Homa Bay,4.9 ,3.8 , 6.2
+Isiolo,0.3 ,0.2 , 0.5
+Kajiado,0.7 ,0.4 , 1.1
+Kakamega,0.5 ,0.4 , 0.8
+Kericho,0.8 ,0.5 , 1.2
+Kiambu,0.5 ,0.3 , 1.1
+Kilifi,0.5 ,0.4 , 0.7
+Kirinyaga,0.5 ,0.3 , 0.8
+Kisii,1.0 ,0.7 , 1.5
+Kisumu,4.1 ,3.2 , 5.5
+Kitui,0.7 ,0.5 , 0.9
+Kwale,0.5 ,0.3 , 0.7
+Laikipia,0.5 ,0.3 , 0.8
+Lamu,0.5 ,0.3 , 0.7
+Machakos,0.6 ,0.4 , 0.9
+Makueni,0.6 ,0.4 , 0.8
+Mandera,<0.1 ,<0.1 , <0.1
+Marsabit,0.2 ,<0.1 , 0.3
+Meru,0.5 ,0.4 , 0.8
+Migori,2.6 ,2.0 , 3.4
+Mombasa,1.3 ,0.9 , 2.0
+Murang'a,0.4 ,0.3 , 0.6
+Nairobi (County),0.7 ,0.6 , 1.0
+Nakuru,0.6 ,0.4 , 1.0
+Nandi,0.6 ,0.4 , 0.9
+Narok,0.6 ,0.4 , 1.0
+Nyamira,0.7 ,0.5 , 1.0
+Nyandarua,0.4 ,0.3 , 0.7
+Nyeri,0.7 ,0.5 , 1.1
+Samburu,0.2 ,0.1 , 0.4
+Siaya,4.5 ,3.2 , 5.9
+Taita-Taveta,0.7 ,0.4 , 1.0
+Tana River,0.2 ,<0.1 , 0.3
+Tharaka-Nithi,0.5 ,0.3 , 0.8
+Trans-Nzoia,0.7 ,0.5 , 1.1
+Turkana,0.8 ,0.5 , 1.2
+Uasin Gishu,1.1 ,0.7 , 1.6
+Vihiga,0.9 ,0.6 , 1.3
+Wajir,<0.1 ,<0.1 , <0.1
+West Pokot,0.3 ,0.1 , 0.4
+National,1.3 ,0.9,1.8

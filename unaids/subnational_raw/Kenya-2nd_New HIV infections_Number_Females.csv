@@ -1,0 +1,49 @@
+States,2019,2019_lower, 2019_upper
+Baringo,<200 ,<100 , <500
+Bomet,<500 ,<100 , <1000
+Bungoma,<200 ,<100 , <500
+Busia,<500 ,<200 , 1200
+Elgeyo-Marakwet,<100 ,<100 , <500
+Embu,<200 ,<100 , <500
+Garissa,<100 ,<100 , <100
+Homa Bay,1500 ,<500 , 4200
+Isiolo,<100 ,<100 , <500
+Kajiado,<1000 ,<200 , 1800
+Kakamega,<1000 ,<200 , 2100
+Kericho,<500 ,<100 , 1100
+Kiambu,<1000 ,<100 , 3800
+Kilifi,<500 ,<100 , <1000
+Kirinyaga,<100 ,<100 , <500
+Kisii,<1000 ,<500 , 2500
+Kisumu,2400 ,<1000 , 6000
+Kitui,<500 ,<100 , <1000
+Kwale,<200 ,<100 , <1000
+Laikipia,<200 ,<100 , <500
+Lamu,<100 ,<100 , <200
+Machakos,<1000 ,<200 , 1800
+Makueni,<500 ,<100 , <1000
+Mandera,<100 ,<100 , <100
+Marsabit,<100 ,<100 , <500
+Meru,<500 ,<200 , 1300
+Migori,1200 ,<500 , 3100
+Mombasa,<1000 ,<200 , 2700
+Murang'a,<100 ,<100 , <500
+Nairobi (County),2400 ,<1000 , 7300
+Nakuru,<1000 ,<200 , 2800
+Nandi,<500 ,<100 , <1000
+Narok,<500 ,<100 , 1500
+Nyamira,<500 ,<100 , <1000
+Nyandarua,<100 ,<100 , <200
+Nyeri,<200 ,<100 , <500
+Samburu,<100 ,<100 , <200
+Siaya,2100 ,<1000 , 5500
+Taita-Taveta,<100 ,<100 , <500
+Tana River,<100 ,<100 , <100
+Tharaka-Nithi,<200 ,<100 , <500
+Trans-Nzoia,<500 ,<100 , 1200
+Turkana,<500 ,<200 , <1000
+Uasin Gishu,<1000 ,<200 , 1700
+Vihiga,<200 ,<100 , <500
+Wajir,<100 ,<100 , <100
+West Pokot,<100 ,<100 , <200
+National,25 000 ,16 000,38 000

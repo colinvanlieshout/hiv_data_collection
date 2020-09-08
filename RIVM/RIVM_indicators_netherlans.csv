@@ -1,0 +1,7 @@
+Country,Year,measure_value,Filters,Indicator,Value_format
+Netherlands,2018,664,All population,HIV diagnosed,Number
+Netherlands,2019,1430,All population,Syfilis diagnosed,Number
+Netherlands,2019,8186,All population,Gonorroe infections,Number
+Netherlands,2019,108,All population,Acute hepatitis B-infecties,Number
+Netherlands,2019,43,All population,Acute hepatitis C-infecties,Number
+Netherlands,2019,21134,All population,Chlamydia diagnosis,Number
