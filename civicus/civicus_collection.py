@@ -43,9 +43,9 @@ for i, v in enumerate(values):
 
 year = '2020'
 df['Country'] = df.apply(lambda r: pycountry.countries.get(alpha_3=r['CountryCode']).name, axis=1)
-df['Year'] = year
-df['Indicator_category'] = 'Country'
+df['Date'] = year
+df['Legend'] = 'Country'
 df['Indicator'] = 'Civicus score'
-df['unit_of_measure'] = 'Number'
+df['Value_format'] = 'Number'
 df['Source'] = 'Civicus monitor'
 df.to_csv('civicus_monitor_augustus_' + year + '.csv')
